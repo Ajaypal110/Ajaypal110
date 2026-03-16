@@ -7,29 +7,53 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### Arlyon – Dating SaaS Platform
-Dating platform with real-time chat, video calls, notifications and subscriptions.
+Dating platform with chat, video calls and subscriptions.
 
-Tech: React, Node.js, MongoDB, Socket.io, WebRTC
+Tech:
+React • Node.js • MongoDB • Socket.io • WebRTC
 
-Live: https://arlyon.vercel.app  
-Code: https://github.com/Ajaypal110/Arlyon
+Live:
+https://arlyon.vercel.app
 
+Code:
+https://github.com/Ajaypal110/Arlyon
+
+</td>
+
+<td width="50%">
 
 ### Khammaghani – Food Delivery Platform
-Multi-role food ordering system with customer, restaurant, delivery and admin dashboards.
+Multi-role ordering system with dashboards.
 
-Tech: React, Node.js, MongoDB, Razorpay
+Tech:
+React • Node.js • MongoDB • Razorpay
 
-Code: https://github.com/Ajaypal110/Khammaghani
+Code:
+https://github.com/Ajaypal110/Khammaghani
 
+</td>
+</tr>
 
-### Wanderlust – Property Listing Platform
-Property listing marketplace with authentication and Cloudinary image uploads.
+<tr>
+<td width="50%">
 
-Tech: React, Node.js, MongoDB
+### Wanderlust – Listing Platform
+Property listing marketplace.
 
-Code: https://github.com/Ajaypal110/Wanderlust
+Tech:
+React • Node.js • MongoDB • Cloudinary
+
+Code:
+https://github.com/Ajaypal110/Wanderlust
+
+</td>
+</tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ajaypal110&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
